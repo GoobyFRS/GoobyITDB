@@ -48,15 +48,18 @@ JSON and YAML based CMDB Platform with GoobyDesk Integration.
 - Account Secret
 - Account Holder
 - Account Billing Address
-- Location
 - Service Address
+- Location
 
 **Workstation Database**
 
 - UUID (PCDB-a1b2c3d4e5f6)
 - Hostname
 - Serial Number
+- Device Type
 - Brand
 - Model
 - OS Version
-- 
+- Purchase Date
+- Assigned User
+- Location
