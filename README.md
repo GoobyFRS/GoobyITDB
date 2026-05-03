@@ -10,7 +10,7 @@ JSON and YAML based CMDB Platform with GoobyDesk Integration.
 
 **Server Database**
 
-- UUID (SVRDB-a1b2c3d4e5f6)
+- UUID
 - Friendly Name (Example Host)
 - Hostname/FQDN (host.example.org)
 - IP Address (100.68.0.2)
@@ -22,7 +22,7 @@ JSON and YAML based CMDB Platform with GoobyDesk Integration.
 
 **Data Circuits Database**
 
-- UUID (CKTDB-a1b2c3d4e5f6)
+- UUID
 - Primary Data Circuit ID
 - Circuit Type
 - Circuit Medium
@@ -39,7 +39,7 @@ JSON and YAML based CMDB Platform with GoobyDesk Integration.
 
 **Voice Circuits Database**
 
-- UUID (VCKTDB-a1b2c3d4e56f)
+- UUID
 - Carrier
 - Service Type
 - Assigned Phone Number
@@ -53,7 +53,7 @@ JSON and YAML based CMDB Platform with GoobyDesk Integration.
 
 **Workstation Database**
 
-- UUID (PCDB-a1b2c3d4e5f6)
+- UUID
 - Hostname
 - Serial Number
 - Device Type
