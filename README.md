@@ -13,16 +13,21 @@ JSON and YAML based CMDB Platform with GoobyDesk Integration.
 - UUID
 - Friendly Name (Example Host)
 - Hostname/FQDN (host.example.org)
-- IP Address (100.68.0.2)
+- IPv Address (100.68.0.2)
+- IPv6 Address
 - MAC Address (a1:b2:c3:d4:e5:f6)
 - Serial Number
 - OS Version
 - Type (VM, Physical)
 - Location
+- Provider
+- Instance ID
+- Cluster ID
 
 **Data Circuits Database**
 
 - UUID
+- Provider
 - Primary Data Circuit ID
 - Circuit Type
 - Circuit Medium
